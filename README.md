@@ -95,7 +95,3 @@ This project is under license from MIT. For more details, see the [LICENSE](LICE
 Made by <a href="https://github.com/Adriano-Santtos" target="_blank">Adriano Santtos</a>
 
 &#xa0;
-
-<a href="#top">Back to top</a>
-# Ignite-trilha-ReactJS
-# Ignite-Trilha-ReactJS
