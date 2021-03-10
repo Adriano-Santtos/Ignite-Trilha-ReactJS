@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Ignite Trilha ReactJS" />
+  <img src="https://www.yazseyit.com/static/16e43c9cbeaf71595fdb366833bd6f8a/143cd/banner.png" alt="Ignite Trilha ReactJS" />
 
   &#xa0;
 
@@ -9,13 +9,13 @@
 <h1 align="center">Ignite Trilha ReactJS</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/Adriano-Santtos/ignite-trilha-reactjs?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/adriano-santtos/ignite-trilha-reactjs?color=56BEB8">
 
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/adriano-santtos/ignite-trilha-reactjs?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Adriano-Santtos/ignite-trilha-reactjs?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/adriano-santtos/ignite-trilha-reactjs?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/Adriano-Santtos/ignite-trilha-reactjs?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/adriano-santtos/ignite-trilha-reactjs?color=56BEB8">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/ignite-trilha-reactjs?color=56BEB8" /> -->
 
@@ -39,7 +39,7 @@ Status
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
+  <a href="https://github.com/adriano-santtos" target="_blank">Author</a>
 </p>
 
 <br>
@@ -92,7 +92,7 @@ $ yarn start
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made by <a href="https://github.com/Adriano-Santtos" target="_blank">{{YOUR_NAME}}</a>
+Made by <a href="https://github.com/Adriano-Santtos" target="_blank">Adriano Santtos</a>
 
 &#xa0;
 
