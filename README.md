@@ -27,7 +27,7 @@
 
 
 <h4 align="center"> 
-	🚧  Bootcamp GoStack Rocketseat 🚀 Under construction...  🚧
+	🚧  Ignite Trilha ReactJS 🚀 Under construction...  🚧
 </h4> 
 
 <hr> 
