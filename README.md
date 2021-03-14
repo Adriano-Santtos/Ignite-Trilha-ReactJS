@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="https://www.yazseyit.com/static/16e43c9cbeaf71595fdb366833bd6f8a/143cd/banner.png" alt="Ignite Trilha ReactJS" />
+  <img src="./images/banner.png" />
 
   &#xa0;
 
